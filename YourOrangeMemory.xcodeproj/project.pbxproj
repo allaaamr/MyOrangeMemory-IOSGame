@@ -14,6 +14,7 @@
 		B640AED928B4D97A008D1F1C /* YourOrangeMemoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B640AED828B4D97A008D1F1C /* YourOrangeMemoryTests.swift */; };
 		B640AEE328B4D97A008D1F1C /* YourOrangeMemoryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B640AEE228B4D97A008D1F1C /* YourOrangeMemoryUITests.swift */; };
 		B640AEE528B4D97A008D1F1C /* YourOrangeMemoryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B640AEE428B4D97A008D1F1C /* YourOrangeMemoryUITestsLaunchTests.swift */; };
+		B640AF2E28B4FE6B008D1F1C /* ImgElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = B640AF2D28B4FE6B008D1F1C /* ImgElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B640AEDE28B4D97A008D1F1C /* YourOrangeMemoryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YourOrangeMemoryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B640AEE228B4D97A008D1F1C /* YourOrangeMemoryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourOrangeMemoryUITests.swift; sourceTree = "<group>"; };
 		B640AEE428B4D97A008D1F1C /* YourOrangeMemoryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourOrangeMemoryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B640AF2D28B4FE6B008D1F1C /* ImgElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				B640AEC928B4D978008D1F1C /* ContentView.swift */,
 				B640AECB28B4D97A008D1F1C /* Assets.xcassets */,
 				B640AECD28B4D97A008D1F1C /* Preview Content */,
+				B640AF2D28B4FE6B008D1F1C /* ImgElement.swift */,
 			);
 			path = YourOrangeMemory;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				B640AECA28B4D978008D1F1C /* ContentView.swift in Sources */,
 				B640AEC828B4D978008D1F1C /* YourOrangeMemoryApp.swift in Sources */,
+				B640AF2E28B4FE6B008D1F1C /* ImgElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
